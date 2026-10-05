@@ -1,6 +1,6 @@
 import scala.annotation.tailrec
 
-object ParcialSeccion2Ejercicio9 {
+object Ejercicio9 {
 
     def segundoMayorDigito(n: Int): Int = {
         @tailrec
