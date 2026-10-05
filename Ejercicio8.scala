@@ -1,6 +1,6 @@
 import scala.annotation.tailrec
 
-object ParcialSeccion2Ejercicio8 {
+object Ejercicio8 {
 
     def contarCambiosParidad(n: Int): Int = {
         if n < 10 then 0
