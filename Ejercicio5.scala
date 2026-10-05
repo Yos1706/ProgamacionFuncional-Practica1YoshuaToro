@@ -1,4 +1,4 @@
-object ParcialEjercicio5 {
+object Ejercicio5 {
 
     def extraerPares(n: Int): String = {
         if n == 0 then ""
