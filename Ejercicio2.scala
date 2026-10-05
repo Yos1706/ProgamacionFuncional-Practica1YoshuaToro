@@ -1,4 +1,4 @@
-object ParcialEjercicio2 {
+object Ejercicio2 {
 
     def digitoMayor(n: Int): Int = {
         if n < 10 then n
